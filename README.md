@@ -1,0 +1,2 @@
+# Implementation-of-Smart-Pointer-Behaviour-Using-RAII-and-Standard-Smart-Pointers
+This C++ project demonstrates smart pointers and automatic resource management using RAII. It defines a Resource class, a custom non-copyable smart pointer, std::unique_ptr, and std::shared_ptr. The program shows resource acquisition, usage, automatic release, exclusive ownership, shared ownership, and reference counting.
